@@ -1,2 +1,2 @@
 testlab1 is my first github project
-I will starting developing code soon
+I will starting developing code soon!
